@@ -1,1 +1,1 @@
-<img src="ethanHero.png" alt="hero">
+<img src="ethan.png" alt="hero">
